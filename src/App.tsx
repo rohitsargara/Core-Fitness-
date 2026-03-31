@@ -6,7 +6,6 @@ import Reviews from "./components/Reviews";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import FloatingActions from "./components/FloatingActions";
-import ExitPopup from "./components/ExitPopup";
 import { useEffect } from "react";
 
 export default function App() {
@@ -75,7 +74,6 @@ export default function App() {
       </main>
       <Footer />
       <FloatingActions />
-      <ExitPopup />
     </div>
   );
 }

@@ -1,0 +1,5 @@
+{
+  "name": "Core Fitness Gym Udaipur",
+  "description": "Premium fitness center in Udaipur rated 4.8 stars. Transform your body with expert trainers and high-end equipment.",
+  "requestFramePermissions": ["geolocation"]
+}
